@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Héctor Sandoval Landázuri
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Swift 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ingsan@live.com.mx
 
